@@ -1,4 +1,6 @@
-# foundations-0-github
+# My first read me file
+
+I copied this file.
 
 **Lesson content**: [Introduction to GitHub](https://github.com/learn-static/foundations-github/blob/main/intro-github.md)
 
